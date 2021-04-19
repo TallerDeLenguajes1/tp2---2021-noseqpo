@@ -1,0 +1,19 @@
+* ¿Puede ver el archivo tp2_1_2.cpp? ¿Por qué?
+
+Al ser una rama diferente, nuestro controlador de versiones se encarga de dejarnos la carpeta exactamente como figura en su sitema, incluso si le es necesario eliminar cosas. 
+
+* Utilice el comando gitk --all y observe los cambios
+
+Se puede ver el master y la branch con sus respectivos cambios, estando la seccion master resaltada
+
+* Cambie al Branch master y vuelva a ejecutar el comando gitk --all ¿Qué
+diferencias nota?
+
+La diferencia es que ahora la branch Opcion_2 esta resaltada
+
+* En el Branch master se va a combinar (merge) ambos repositorios. Luego utilice el comando gitk –all para ver los cambios, ¿Qué nota?
+
+La branch Opcion_2 se ha unido a la master, dejando esta como la mas recientemente modificada
+
+
+ 
